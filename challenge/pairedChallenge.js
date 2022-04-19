@@ -1,6 +1,6 @@
 //I named the file paired.Challenge.js because it is the activity title of what we are doing.
 var favBook = "The Way of Kings";
-var numFavGenres = 1; // Fantasy books alwats
+var numFavGenres = 1; // Fantasy books always
 var favBook = true;
 var bestChar = "Kaladin"; // Kaladin is the most compelling proteagonist of any book I've read.
 var avgNumPages = 750; //most books I read are long.
